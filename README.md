@@ -1,10 +1,12 @@
 # MaintenanceDatabase
 use MS access to migrate data from the excel and build a database based on client's needs
-Main:
+![](https://github.com/luoyu-shen/MaintenanceDatabase/blob/main/images/Slide2.JPG)
+
+## Main:
 
 There are totally 8 forms for user to get the data entry. They are login form for login, machine management, maintenance management, vendors management, parts management form with add, search and delete. Dictionary for keeping other forms data to improve management. Near Miss Report is used to record misact in daily work. There are two reports showing machine and maintenance.
 
-![](https://github.com/luoyu-shen/MaintenanceDatabase/blob/main/images/Slide2.JPG)
+
 
 ## Login：
 
@@ -36,3 +38,13 @@ Definition: Used to add, search, delete and update Vendors, who provide parts.
 
 Improvements in the future:
 Add Junk table to faciliate tracking status with columns Scheduled, Repaired, Maintenanced with enum data type (Y/N).
+
+![](https://github.com/luoyu-shen/MaintenanceDatabase/blob/main/images/Slide3.JPG)
+![](https://github.com/luoyu-shen/MaintenanceDatabase/blob/main/images/Slide4.JPG)
+![](https://github.com/luoyu-shen/MaintenanceDatabase/blob/main/images/Slide5.JPG)
+![](https://github.com/luoyu-shen/MaintenanceDatabase/blob/main/images/Slide6.JPG)
+![](https://github.com/luoyu-shen/MaintenanceDatabase/blob/main/images/Slide7.JPG)
+![](https://github.com/luoyu-shen/MaintenanceDatabase/blob/main/images/Slide8.JPG)
+![](https://github.com/luoyu-shen/MaintenanceDatabase/blob/main/images/Slide9.JPG)
+![](https://github.com/luoyu-shen/MaintenanceDatabase/blob/main/images/Slide10.JPG)
+![](https://github.com/luoyu-shen/MaintenanceDatabase/blob/main/images/Slide11.JPG)
