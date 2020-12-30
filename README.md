@@ -3,7 +3,8 @@ use MS access to migrate data from the excel and build a database based on clien
 Main:
 
 There are totally 8 forms for user to get the data entry. They are login form for login, machine management, maintenance management, vendors management, parts management form with add, search and delete. Dictionary for keeping other forms data to improve management. Near Miss Report is used to record misact in daily work. There are two reports showing machine and maintenance.
-![](/Slide2.png)
+
+![Goal](/Slide2.png)
 
 ## Login：
 
